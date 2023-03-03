@@ -19,7 +19,7 @@ inquirer
         type: 'list',
         name: 'shape',
         message: 'Please select a shape.',
-        choices: ['Triangle','Circle', 'Square', 'Star']
+        choices: ['Triangle','Circle', 'Square' ]
     },
     {
         type: 'input',
