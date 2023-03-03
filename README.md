@@ -16,6 +16,5 @@
   ## Usage
   Run from the CLI
 
-  ## Questions
+ 
   [AForkintheCode](http://www.github.com/AForkintheCode)
-  Please contact me @  if you have any further questions.
